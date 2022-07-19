@@ -13,7 +13,7 @@
     <h2>User Management System</h2>
 
     <div class="btn create">
-        <a href="create">create new product</a>
+        <a href="create">Create new user</a>
     </div>
 
     @if ($message = Session::get('success'))
